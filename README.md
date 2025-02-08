@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">Frontend: Angular, React Js, Bootsrap. <br> Backend: Java Spring Boot, Node.js, PHP <br> Database: MySQL, MongoDB, Tools: Postman, Canva, Figma,Git, Mermaid</h3>
+<h5 align="left">Frontend: Angular, React Js, Bootsrap. <br> Backend: Java Spring Boot, Node.js, PHP <br> Database: MySQL, MongoDB, Tools: Postman, Canva, Figma,Git, Mermaid</h5>
 
 ###
 
