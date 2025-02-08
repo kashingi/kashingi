@@ -20,11 +20,11 @@
 
 ###
 
-<p align="left">My name is Kashingi Morris Juma from Kilifi-Kenya<br><br>- 🔭 I’m working as a fullstack web-developer<br>- 📚 I'm currently learning React.Js and Node.Js<br>- ⚡ In my free time I usually code for fun</p>
+<p align="left">My name is Kashingi Morris Juma from Kenya<br><br>- 🔭 I’m a Software Engineerr<br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I usually code for fun</p>
 
 ###
 
-<h3 align="left">🛠 C, C++, HTML, CSS, JavaScript, jQuery, Ajax, Bootstrap, PHP, Java, Python and laravel.</h3>
+<h3 align="left">Frontend: Angular, React Js, Bootsrap. <br> Backend: Java Spring Boot, Node.js, PHP <br> Database: MySQL, MongoDB, Tools: Postman, Canva, Figma,Git, Mermaid</h3>
 
 ###
 
